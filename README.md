@@ -3,8 +3,8 @@ Java - Banking System (Real Interview Question)
 
 ## Java Interview Question
 ### 2) OOP + TDD - Banking System
-#### a) Class Diagram
-<img src="/img/banking-system-component.png" alt="banking-system-component" width="600"/>
+#### a) Component Diagram
+<img src="/img/banking-system-component.png" alt="banking-system-component" width="800"/>
 
 #### b) Your Tasks:
 - Complete all main codes to make all test cases passed
