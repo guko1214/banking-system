@@ -1,4 +1,4 @@
-package banking;
+package com.javahongkong.bootcamp.exercise;
 
 public class Company {
 	private String companyName;

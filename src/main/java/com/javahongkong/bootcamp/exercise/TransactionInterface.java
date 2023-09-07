@@ -1,8 +1,5 @@
 package com.javahongkong.bootcamp.exercise;
 
-/**
- * The public methods for the {@link Transaction} class
- */
 public interface TransactionInterface {
 
 	/**

@@ -1,15 +1,5 @@
 package com.javahongkong.bootcamp.exercise;
 
-/**
- * Abstract bank account class.<br>
- * <br>
- *
- * Private Variables:<br>
- * {@link #accountHolder}: AccountHolder<br>
- * {@link #accountNumber}: Long<br>
- * {@link #pin}: int<br>
- * {@link #balance}: double
- */
 public abstract class Account {
 	private AccountHolder accountHolder;
 	private Long accountNumber;

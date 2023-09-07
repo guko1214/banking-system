@@ -1,8 +1,5 @@
-package banking;
+package com.javahongkong.bootcamp.exercise;
 
-/**
- * The public methods for the {@link Bank} class.
- */
 public interface BankInterface {
 
 	/**

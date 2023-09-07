@@ -1,12 +1,7 @@
-package package com.javahongkong.bootcamp.exercise;
-;
+package com.javahongkong.bootcamp.exercise;
 
 import java.util.LinkedHashMap;
 
-/**
- * Private Variables:<br>
- * {@link #accounts}: List&lt;Long, Account&gt;
- */
 public class Bank {
 	private LinkedHashMap<Long, Account> accounts; // object reference
 

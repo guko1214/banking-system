@@ -1,4 +1,4 @@
-package banking;
+package com.javahongkong.bootcamp.exercise;
 
 import java.util.ArrayList;
 import java.util.List;

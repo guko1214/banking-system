@@ -1,11 +1,5 @@
-package banking;
+package com.javahongkong.bootcamp.exercise;
 
-/**
- *
- * Private Variables:<br>
- * {@link #accountNumber}: Long<br>
- * {@link #bank}: Bank<br>
- */
 public class Transaction {
 	private Long accountNumber;
 	private Bank bank;
